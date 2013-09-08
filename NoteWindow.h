@@ -29,6 +29,8 @@
 #include <ScrollView.h>
 #include <Menu.h>
 #include <MenuBar.h>
+#include <File.h>
+#include <FilePanel.h>
 #include <MenuItem.h>
 #include <Message.h>
 
